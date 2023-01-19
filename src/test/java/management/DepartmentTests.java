@@ -1,4 +1,4 @@
-package tests.management;
+package management;
 
 import management.Department;
 import management.employees.Manager;

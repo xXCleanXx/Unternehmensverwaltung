@@ -1,5 +1,3 @@
-package main;
-
 import vehicles.PassengerTransport;
 import management.Department;
 import management.Unternehmensverwaltung;

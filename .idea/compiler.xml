@@ -9,5 +9,8 @@
         <module name="Unternehmensverwaltungssystem" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Unternehmensverwaltungssystem" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>

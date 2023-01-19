@@ -1,4 +1,4 @@
-package tests.management.employees;
+package management.employees;
 
 import driverlicense.DriverLicense;
 import driverlicense.DriverLicenseTypes;
