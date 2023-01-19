@@ -1,6 +1,5 @@
 package management;
 
-import management.Department;
 import management.employees.Manager;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
