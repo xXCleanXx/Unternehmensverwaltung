@@ -22,7 +22,7 @@ public class Department implements Comparable<Department> {
     }
 
     public void setName(String name) {
-        if (name == null || name.isBlank()) throw new IllegalArgumentException("Name cannot be null, empty or consists of white-spaces!");
+        //if (name == null || name.isBlank()) throw new IllegalArgumentException("Name cannot be null, empty or consists of white-spaces!");
 
         this._name = name;
     }
